@@ -1,0 +1,10 @@
+This project involves using data files consisting of information regarding historical wars and battles. 
+
+I want to develop my own machine learning model using logistic regression to classify some sort of information. At the moment,
+I have very minimal experience with implementing machine learning techniques in Python. As such, I will be starting with some of the
+basics, such as importing datasets into Python using pandas, and then exploring different trends and/or patterns with the data.
+I will create another text file consisting of a basic timeline of what I have acheived throughout this project's development.
+
+Dataset Attribution:
+
+The War Atlas (2026). The War Atlas Open Dataset (version 2026-07-03). https://thewaratlas.co/data
